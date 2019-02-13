@@ -1,4 +1,4 @@
-Fundamentals of Social Data Science
+#Fundamentals of Social Data Science#|
 
 This is the course repository for the introductory python course in Oxford's Social Data Science program.
 
