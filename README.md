@@ -1,2 +1,2 @@
 # data-science
-PyLadies-SP em Data Science
+ Grupo de Estudos em Data Science PyLadies-SP
