@@ -33,7 +33,7 @@ Material utilizado pelo grupo de estudos, com documentos separados por cada tóp
 ### Workshops
 Pasta com arquivos utilizados nos Workshops de Ciência de Dados e Python
 
-- Workshop Introdução a Estatística e Pandas
-  [Material](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf)
-  [Jupyter notebook utilizado](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/tips_notebook.ipynb)
-  [Dados utilizados](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/tips.csv)
+#### Workshop Introdução a Estatística e Pandas
+ - [Material](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf)
+ - [Jupyter notebook utilizado](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/tips_notebook.ipynb)
+ - [Dados utilizados](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/tips.csv)
