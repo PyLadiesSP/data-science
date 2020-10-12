@@ -3,6 +3,9 @@
 ### Apresentações
 [Documento de Apresentação do GEDS](https://github.com/PyLadiesSP/data-science/blob/master/Apresenta%C3%A7%C3%B5es/Como%20um%20grupo%20de%20estudos%0Aestimula%20a%20troca%20de%20saber%20dentro%20da%0Acomunidade%20Pyladies%20S%C3%A3o%20Paulo.pdf)
 
+### Base de Dados
+Bases de dados para análises de Ciência de Dados.
+
 ### Trilha de Estudos 
 Material utilizado pelo grupo de estudos, com documentos separados por cada tópico estudado.
 
@@ -27,8 +30,8 @@ Material utilizado pelo grupo de estudos, com documentos separados por cada tóp
 - [Teste de Hipótese II](https://github.com/PyLadiesSP/data-science/blob/master/Trilha%20de%20Estudos/09%20material.pdf)
 
 
-### Workshops
-Pasta com arquivos utilizados nos Workshops de Ciência de Dados e Python
+### Oficinas
+Pasta com arquivos utilizados nas Oficinas de Ciência de Dados e Python
 
 #### Workshop Introdução a Estatística e Pandas
  - [Material](https://github.com/PyLadiesSP/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf)
