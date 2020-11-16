@@ -3,8 +3,8 @@
 ### Apresentações
 [Documento de Apresentação do GEDS](https://github.com/PyLadiesSP/data-science/blob/master/Apresentacoes/grupo_de_estudos_estimula_troca_de_saber_Pyladies_SP.pdf)
 
-### Base de Dados
-[Bases de dados para análises de Ciência de Dados](https://github.com/PyLadiesSP/data-science/tree/master/Bases_de_dados)
+### Links uteis
+Links uteis com [bases de dados](https://github.com/PyLadiesSP/data-science/tree/master/Bases_de_dados) e mais variados textos de Ciência de Dados
 
 ### Oficinas
 Pasta com arquivos utilizados nas Oficinas de Ciência de Dados e Python
