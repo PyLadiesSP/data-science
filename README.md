@@ -17,7 +17,7 @@ Pasta com arquivos utilizados nas Oficinas de Ciência de Dados e Python
 ### Trilha de Estudos 
 Material utilizado pelo grupo de estudos, com documentos separados por cada tópico estudado.
 
-- [Proposta de Estudo](https://pyladiessp.github.io/data-science/Trilha%20de%20Estudos/proposta_estudo.pdf)
+- [Proposta de Estudo](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/proposta_estudo.pdf)
 
 - [Probabilidade básica - Introdução + Exercícios](https://github.com/PyLadiesSP/data-science/blob/master/Trilha_de_Estudos/01%20material.pdf)
 
