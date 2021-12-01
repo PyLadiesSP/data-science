@@ -14,6 +14,9 @@ Pasta com arquivos utilizados nas Oficinas de Ciência de Dados e Python
  - [Jupyter notebook utilizado](https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/tips_notebook.ipynb)
  - [Dados utilizados](https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/tips.csv)
 
+### Palestra Python Brasil 2021
+- [Material - 7 passos do projeto de Ciência de Dados - em pdf](https://github.com/PyLadiesSP/data-science/blob/master/Apresentacoes/2021_Python_Brasil/Roteiro_7passos.pdf)
+
 ### Trilha de Estudos 
 Material utilizado pelo grupo de estudos, com documentos separados por cada tópico estudado.
 
